@@ -1,2 +1,5 @@
+octave
+octave-image
+python-sympy
 gnuplot
 ghostscript
