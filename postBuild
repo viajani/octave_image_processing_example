@@ -1,5 +1,0 @@
-#!/bin/sh
-
-apt-get update &&
-apt-get install -y --no-install-recommends octave-image python-sympy&&
-rm -rf /var/lib/apt/lists/*
